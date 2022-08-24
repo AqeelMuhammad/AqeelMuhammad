@@ -7,6 +7,12 @@
 👀 I’m interested in Internet of Things (IoT), Software Development, Embedded Systems, and Telecommunication.<br/>
 🔭 I’m currently working on software development using JavaScript and IOT stuff using NodeMCU, MQTT.<br/>
 💞️ I’m curious about almost any new technological trends and looking forward to collaborating on any above-mentioned interested fields<br/>
+  
+<!--
+![](https://komarev.com/ghpvc/?username=AqeelMuhammad&color=blue&style=plastic)
+[![](https://visitcount.itsvg.in/api?id=AqeelMuhammad&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
+
 </div>
 <div align="center">
 
@@ -39,7 +45,7 @@
 <a href="https://github.com/AqeelMuhammad">
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AqeelMuhammad&theme=light&layout=compact&langs_count=8" />
 </a>
- <a href="https://github.com/AqeelMuhammad">
+<a href="https://github.com/AqeelMuhammad">
  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AqeelMuhammad&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true" alt="Aqeel's github stats"/>
 </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AqeelMuhammad&" alt="Aqeel" /></p>
