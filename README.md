@@ -33,7 +33,7 @@
 </p>
 </div>
 <div align="center">
-
+<!--
 #
 ## ⚙️ GitHub Analytics 
 <a href="https://github.com/AqeelMuhammad">
@@ -47,6 +47,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AqeelMuhammad&" alt="Aqeel" /></p>
 
 </div>
+-->
 <div align="center">
 
 #
