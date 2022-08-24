@@ -39,13 +39,10 @@
 <a href="https://github.com/AqeelMuhammad">
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AqeelMuhammad&theme=light&layout=compact&langs_count=8" />
 </a>
- 
  <a href="https://github.com/AqeelMuhammad">
  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AqeelMuhammad&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true" alt="Aqeel's github stats"/>
 </a>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AqeelMuhammad&" alt="Aqeel" /></p>
-
 </div>
 <div align="center">
 
