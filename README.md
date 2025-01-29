@@ -3,9 +3,9 @@
 ## Hello there, I'm Muhammad Aqeel 👋
 ### 👨🏻‍💻 About Me
 
-🎓 I'm an undergraduate of [Electronics & Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa, Sri Lanka](https://uom.lk/)<br/>
-👀 I’m interested in Internet of Things (IoT), Software Development, Embedded Systems, and Telecommunication.<br/>
-🔭 I’m currently working on software development using JavaScript and IOT stuff using NodeMCU, MQTT.<br/>
+🎓 I'm a graduate of [Electronics & Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa, Sri Lanka](https://uom.lk/)<br/>
+👀 I’m interested in Backend Development, and Full stack Development.<br/>
+🔭 I’m currently working on software development using Java, JavaScript.<br/>
 💞️ I’m curious about almost any new technological trends and looking forward to collaborating on any above-mentioned interested fields<br/>
   
 <!--
@@ -48,7 +48,7 @@
 <a href="https://github.com/AqeelMuhammad">
  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AqeelMuhammad&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true" alt="Aqeel's github stats"/>
 </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AqeelMuhammad&" alt="Aqeel" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AqeelMuhammad&" alt="Aqeel" /></p> -->
 </div>
 <div align="center">
 
