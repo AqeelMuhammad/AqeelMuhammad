@@ -30,12 +30,13 @@
 
 ***Tools***
 <p>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Altium_Designer_logo.png"></code>
-<code><img height="40" src="https://blog.digilentinc.com/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png"></code>
-<code><img height="40" src="https://banner2.cleanpng.com/20180328/ezw/kisspng-solidworks-computer-aided-design-3d-computer-graph-work-5abb8876c7bd12.1780632115222396068181.jpg"></code>
+<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/IntelliJ.svg"></code>
 <code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/visualStudioCode.svg"></code>
-<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/NodeRedLogo.png"></code>
+<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/postman.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
+<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/mysql.svg"></code>
+<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/DBeaver.svg"></code>
+<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/NodeRedLogo.png"></code>
 </p>
 </div>
 <div align="center">
